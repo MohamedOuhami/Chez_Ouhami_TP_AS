@@ -1,26 +1,22 @@
-# Application de Notation des Acteurs avec Android Studio
+# README - Application de Pizzas avec Android Studio
 
-Ce README présente un projet d'application Android développé avec Android Studio. Cette application permet aux utilisateurs de consulter et d'attribuer des notes aux acteurs et actrices en fonction de leurs performances dans des films
+Ce README présente un projet d'application Android développé avec Android Studio. Cette application permet aux utilisateurs de visualiser une variété de pizzas e
 
 ## Aperçu
 
-Cette application vise à fournir une plateforme conviviale permettant aux amateurs de cinéma de découvrir, noter et discuter des performances des acteurs. Les fonctionnalités principales incluent :
+Cette application a pour objectif de simplifier l'affichage de pizzas en proposant une liste de pizzas délicieuses, des détails sur chaque pizza Les fonctionnalités principales incluent :
 
-- **Liste d'Acteurs :** Les utilisateurs peuvent parcourir une liste d'acteurs et actrices renommés.
-
-- **Évaluation des Acteurs :** Les utilisateurs peuvent attribuer des notes aux acteurs en fonction de leurs performances dans des films spécifiques.
+- **Liste de Pizzas :** Les utilisateurs peuvent parcourir une liste de pizzas avec des images et des descriptions. Chaque pizza affiche des informations sur ses ingrédients et ses tailles disponibles.
 
 ## Comment Utiliser l'Application
 
-1. **Liste d'Acteurs :** Explorez la liste des acteurs en cliquant sur leurs noms pour accéder à leurs profils respectifs.
-
-2. **Évaluation des Acteurs :** Vous pouvez attribuer des étoiles et laisser des commentaires détaillés.
+1. **Liste de Pizzas :** Explorez la liste de pizzas en cliquant sur les images des pizzas pour accéder aux détails.
 
 ## Vidéo de Présentation
 
 Pour une démonstration visuelle de l'application, vous pouvez regarder la vidéo de présentation ci-dessous :
 
-![Vidéo de Présentation](videos/app2.mp4)
+[![Vidéo de Présentation](videos/app2.mp4)
 
 ## Installation
 
@@ -34,7 +30,7 @@ Pour exécuter l'application sur un émulateur Android ou un appareil physique, 
 
 4. Compilez et exécutez l'application sur l'émulateur ou l'appareil.
 
-5. Explorez les fonctionnalités de l'application et testez l'attribution de notes aux acteurs.
+5. Explorez les fonctionnalités de l'application, parcourez les pizzas, personnalisez vos commandes et effectuez des achats de pizzas délicieuses.
 
 ## Technologies Utilisées
 
@@ -43,4 +39,3 @@ L'application est construite en utilisant les technologies suivantes :
 - Android Studio
 - Java (pour la logique de l'application)
 - XML (pour la conception de l'interface utilisateur)
-- Retrofit (pour la récupération des données à partir d'une source distante)
