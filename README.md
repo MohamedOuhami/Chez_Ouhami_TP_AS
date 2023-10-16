@@ -20,7 +20,7 @@ Cette application vise à fournir une plateforme conviviale permettant aux amate
 
 Pour une démonstration visuelle de l'application, vous pouvez regarder la vidéo de présentation ci-dessous :
 
-[![Vidéo de Présentation](videos/app2.mp4)
+![Vidéo de Présentation](videos/app2.mp4)
 
 ## Installation
 
