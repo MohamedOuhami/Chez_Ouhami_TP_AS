@@ -16,7 +16,7 @@ Cette application a pour objectif de simplifier l'affichage de pizzas en proposa
 
 Pour une démonstration visuelle de l'application, vous pouvez regarder la vidéo de présentation ci-dessous :
 
-[![Vidéo de Présentation](videos/app2.mp4)
+![Vidéo de Présentation](videos/app2.mp4)
 
 ## Installation
 
